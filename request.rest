@@ -41,8 +41,8 @@ Content-Type: application/json
 auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNmE0OTE4NDQxZDM1MjMzYTc4NmNmYzJmIn0sImlhdCI6MTc4MzE4MjU4OH0.QeQ-wEBb9B5S1J9xaU23_v1ca1zQSIPNGCW4e2W6WtY
 
 {
-    "title": "My Title",
-    "description": "Just do your work.",
+    "title": "Complete Today's Work",
+    "description": "Lesss gooooo",
     "tag": "Personal"
 }
 
