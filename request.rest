@@ -64,3 +64,10 @@ auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNmE0OTE4NDQ
 DELETE http://localhost:5000/api/notes/deletenote/6a4a8f18570aa48de8be67a9
 Content-Type: application/json
 auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNmE0OTE4NDQxZDM1MjMzYTc4NmNmYzJmIn0sImlhdCI6MTc4MzE4MjU4OH0.QeQ-wEBb9B5S1J9xaU23_v1ca1zQSIPNGCW4e2W6WtY
+
+
+###
+### pinned note
+PUT http://localhost:5000/api/notes/pinnote/6a4a8f18570aa48de8be67a9
+Content-Type: application/json
+auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNmE0OTE4NDQxZDM1MjMzYTc4NmNmYzJmIn0sImlhdCI6MTc4MzE4MjU4OH0.QeQ-wEBb9B5S1J9xaU23_v1ca1zQSIPNGCW4e2W6WtY
